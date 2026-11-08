@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Festa 61 anos</string>
+    <string name="titulo">🎉 Aniversário de 61 anos 🎉</string>
+    <string name="local">📍 Local da festa:\nRua Formosa, Vargem Grande - MA</string>
+    <string name="ver_mapa">Ver no mapa</string>
+    <string name="desc_foto1">Bolo de 61 anos</string>
+    <string name="desc_foto2">Decoração da festa</string>
+    <string name="desc_foto3">Aniversariante com balões</string>
+</resources>
