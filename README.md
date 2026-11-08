@@ -1,2 +1,2 @@
 #### Preview
-<img src="./preview.jpg" />
+<img src="./preview_app.png" />
